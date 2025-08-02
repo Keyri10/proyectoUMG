@@ -31,3 +31,4 @@ C:\Users\Usuario\Documents\Devopsumg\src\ContactosAPI\obj\Debug\net8.0\refint\Co
 C:\Users\Usuario\Documents\Devopsumg\src\ContactosAPI\obj\Debug\net8.0\ContactosAPI.pdb
 C:\Users\Usuario\Documents\Devopsumg\src\ContactosAPI\obj\Debug\net8.0\ContactosAPI.genruntimeconfig.cache
 C:\Users\Usuario\Documents\Devopsumg\src\ContactosAPI\obj\Debug\net8.0\ref\ContactosAPI.dll
+C:\Users\Usuario\Documents\Devopsumg\src\ContactosAPI\obj\Debug\net8.0\ContactosAPI.sourcelink.json
